@@ -13,6 +13,11 @@ function is a variable to does something, takes an action
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
+S: single responsibility
+O: Open & Close
+L: liskov substitution
+I: Interface segregation
+D: Dependency Inversion
 
 ```
 **4.** Given this array: 
