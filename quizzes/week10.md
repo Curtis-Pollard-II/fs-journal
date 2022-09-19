@@ -33,6 +33,8 @@ abstract class Car
 ```
 The fact that it is stated as "public" makes it accessible to the user
 
+p.s. I am not seeing a ? #4
+
 ```
 **6.** In the example what is `string` an indication of?
 <!-- enter you answer in the space below -->
